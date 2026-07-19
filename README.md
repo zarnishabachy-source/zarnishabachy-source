@@ -104,6 +104,8 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-c792ea?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-phi-inky-66kn2egznh.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-c792ea?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zainabgulzar90@gmail.com)
 
+<img src="https://komarev.com/ghpvc/?username=zarnishabachy-source&color=c792ea&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/zarnishabachy-source?color=c792ea&style=for-the-badge&label=FOLLOWERS&logo=github" />
 </div>
 
 <div align="center">
