@@ -42,7 +42,7 @@
 <tr>
 <td width="50%">
 
-###  rent_calculator
+### rent_calculator
 
 [![rent_calculator](https://github-readme-stats.vercel.app/api/pin/?username=zarnishabachy-source&repo=rent_calculator&theme=tokyonight&border_color=c792ea&title_color=c792ea&icon_color=c792ea)](https://github.com/zarnishabachy-source/rent_calculator)
 
@@ -96,8 +96,6 @@
 <img src="https://streak-stats.demolab.com?user=zarnishabachy-source&theme=tokyonight&border=c792ea&ring=c792ea&fire=c792ea&background=0d1117" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=zarnishabachy-source&no-frame=true&no-bg=true&theme=tokyonight&row=1" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zarnishabachy-source&theme=tokyo-night&hide_border=true&color=c792ea&line=c792ea&point=ffffff&bg_color=0d1117" />
 
 </div>
 
