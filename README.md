@@ -153,3 +153,16 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:6C63FF,100:FF6B9D&height=150&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,20:0F172A,45:1E3A8A,70:2563EB,100:06B6D4&section=footer&animation=fadeIn"/>
+
+<h2>✨ Thanks for Visiting My Profile ✨</h2>
+
+<p>
+Building Intelligent AI Solutions • Python Developer • AI Automation
+</p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&duration=3500&pause=900&color=22D3EE&center=true&vCenter=true&width=650&lines=Always+Learning...;Always+Building...;Always+Improving...;See+You+Again!+👋"/>
+
+</div>
