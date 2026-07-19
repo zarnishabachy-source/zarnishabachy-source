@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=soft&color=0:FF6B9D,50:C44BFF,100:6C63FF&height=250&section=header&text=Zainab%20Gulzar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Python%20Developer%20%7C%20AI%20%26%20Automation&descAlignY=55&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=soft&color=0:FF6B9D,100:6C63FF&height=250&section=header&text=Zainab%20Gulzar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Python%20Developer%20%7C%20AI%20%26%20Automation&descAlignY=55&descSize=20)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=2800&pause=900&color=FF6B9D&center=true&vCenter=true&width=700&lines=%F0%9F%8E%93+7th+Semester+CS+Student;%F0%9F%90%8D+Python+Developer;%E2%9A%A1+AI+Automation+with+n8n;%F0%9F%A4%96+ML+%7C+DL+%7C+NLP+%7C+CV+Enthusiast)](https://git.io/typing-svg)
 
@@ -116,6 +116,6 @@
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=soft&color=0:6C63FF,50:C44BFF,100:FF6B9D&height=150&section=footer&animation=fadeIn)
+![Footer](https://capsule-render.vercel.app/api?type=soft&color=0:6C63FF,100:FF6B9D&height=150&section=footer&animation=fadeIn)
 
 </div>
