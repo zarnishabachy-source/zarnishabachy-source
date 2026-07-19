@@ -13,16 +13,26 @@
 
 ## 👩‍💻 Who I Am
 
-```typescript
-const zainab = {
-  title: "CS Student (7th Semester) | Python Developer",
-  stack: ["Python", "HTML", "SQLite", "SQL"],
-  focus: ["AI Automation (n8n)", "Machine Learning", "Deep Learning", "NLP", "Computer Vision"],
-  launchedProjects: ["ZB_ROBO"],
-  status: "Building AI-powered automation tools 🚀",
-  openTo: "Collaborations in AI & Python projects 🤝",
-};
-```
+<div align="center">
+<img src="https://img.shields.io/badge/🎓_Title-CS_Student_(7th_Sem)_%7C_Python_Dev-c792ea?style=for-the-badge&labelColor=0d1117" />
+<br/><br/>
+
+<img src="https://img.shields.io/badge/🐍_Python-c792ea?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/🌐_HTML-c792ea?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/🗄️_SQLite-c792ea?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/📊_SQL-c792ea?style=flat-square&labelColor=0d1117" />
+<br/><br/>
+
+<img src="https://img.shields.io/badge/⚡_n8n_Automation-764ba2?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/🧠_Machine_Learning-764ba2?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/🔬_Deep_Learning-764ba2?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/💬_NLP-764ba2?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/👁️_Computer_Vision-764ba2?style=flat-square&labelColor=0d1117" />
+</div>
+<br/>
+🚀 LaunchedZB_ROBO🛠️ StatusBuilding AI-powered automation tools🤝 Open ToCollaborations in AI & Python projects
+
+<br/>
 
 <br/>
 
