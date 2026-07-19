@@ -104,22 +104,28 @@
 <td colspan="2" valign="top">
 
 ### 💼 Career Navigator — WhatsApp AI Chatbot
-
-> An AI-powered career guidance chatbot built on **n8n**, delivered entirely over **WhatsApp** — pulls live job/market data, stores & retrieves candidate info, and responds with AI-generated career advice.
-
+ 
+> An AI-powered career guidance chatbot built on **n8n**, delivered entirely over **WhatsApp**.
+ 
 | Layer | Technology |
 |-------|-----------|
 | Automation | n8n |
 | Messaging | WhatsApp |
-| Data Storage | Google Sheets, Google Drive, Airtable |
-| Search | SerpAPI |
-| AI Models | Gemini API, OpenRouter API |
-
+ 
 </td>
 </tr>
 </table>
-
 <br/>
+**⚡ n8n Integrations I've worked with:**
+ 
+<div align="center">
+<img src="https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white" />
+<img src="https://img.shields.io/badge/Airtable-18BFFF?style=flat-square&logo=airtable&logoColor=white" />
+<img src="https://img.shields.io/badge/SerpAPI-FF6B9D?style=flat-square&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenRouter_API-6C63FF?style=flat-square&logo=openai&logoColor=white" />
+</div>
 
 ## 🛠️ Tech Stack
 
