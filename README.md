@@ -93,8 +93,6 @@
 
 <img src="https://streak-stats.demolab.com?user=zarnishabachy-source&theme=tokyonight&border=c792ea&ring=c792ea&fire=c792ea&background=0d1117" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=zarnishabachy-source&no-frame=true&no-bg=true&theme=tokyonight&row=1" />
-
 </div>
 
 <br/>
