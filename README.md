@@ -2,12 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9D,100:6C63FF&height=220&section=header&text=Zainab%20Gulzar&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=CS%20Student%20%7C%20Python%20Developer%20%7C%20AI%20%26%20Automation&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://avatars.githubusercontent.com/u/253074889?v=4" width="130" style="border-radius:50%;border:3px solid #FF6B9D;" />
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="100%"/>
 
 <br/><br/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=2800&pause=900&color=FF6B9D&center=true&vCenter=true&width=700&lines=%F0%9F%8E%93+7th+Semester+CS+Student;%F0%9F%90%8D+Python+Developer;%E2%9A%A1+AI+Automation+with+n8n;%F0%9F%A4%96+ML+%7C+DL+%7C+NLP+%7C+CV+Enthusiast" /></a>
-
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=zarnishabachy-source&color=FF6B9D&style=for-the-badge&label=PROFILE+VIEWS" />
