@@ -1,48 +1,54 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Hi%2C%20I'm%20Zainab%20%F0%9F%91%8B&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CS%20Student%20%7C%20Python%20Developer%20%7C%20AI%20Automation&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=soft&color=0:FF6B9D,50:C44BFF,100:6C63FF&height=250&section=header&text=Zainab%20Gulzar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Python%20Developer%20%7C%20AI%20%26%20Automation&descAlignY=55&descSize=20)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=C792EA&center=true&vCenter=true&width=650&lines=7th+Semester+CS+Student+%F0%9F%8E%93;Python+Developer+%F0%9F%90%8D;AI+Automation+with+n8n+%E2%9A%A1;ML+%7C+DL+%7C+NLP+%7C+CV+Enthusiast+%F0%9F%A4%96)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=2800&pause=900&color=FF6B9D&center=true&vCenter=true&width=700&lines=%F0%9F%8E%93+7th+Semester+CS+Student;%F0%9F%90%8D+Python+Developer;%E2%9A%A1+AI+Automation+with+n8n;%F0%9F%A4%96+ML+%7C+DL+%7C+NLP+%7C+CV+Enthusiast)](https://git.io/typing-svg)
 
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=zarnishabachy-source&color=FF6B9D&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/zarnishabachy-source?color=C44BFF&style=for-the-badge&label=FOLLOWERS&logo=github&logoColor=white" />
 
 <br/><br/>
 
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
 </div>
 
-## 👩‍💻 Who I Am
+<br/>
+
+## ✨ Who I Am
 
 <div align="center">
-<img src="https://img.shields.io/badge/🎓_Title-CS_Student_(7th_Sem)_%7C_Python_Dev-c792ea?style=for-the-badge&labelColor=0d1117" />
+
+<img src="https://img.shields.io/badge/🎓_CS_Student_(7th_Sem)-FF6B9D?style=for-the-badge&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/🐍_Python_Developer-C44BFF?style=for-the-badge&labelColor=1a1a2e" />
+
 <br/><br/>
 
-<img src="https://img.shields.io/badge/🐍_Python-c792ea?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/🌐_HTML-c792ea?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/🗄️_SQLite-c792ea?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/📊_SQL-c792ea?style=flat-square&labelColor=0d1117" />
-<br/><br/>
+| 🚀 Launched | 🛠️ Currently | 🤝 Open To |
+|:---:|:---:|:---:|
+| **ZB_ROBO** | Building AI-powered automation tools | Collaborations in AI & Python projects |
 
-<img src="https://img.shields.io/badge/⚡_n8n_Automation-764ba2?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/🧠_Machine_Learning-764ba2?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/🔬_Deep_Learning-764ba2?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/💬_NLP-764ba2?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/👁️_Computer_Vision-764ba2?style=flat-square&labelColor=0d1117" />
+<br/>
+
+**Stack** &nbsp; 🐍 Python &nbsp;•&nbsp; 🌐 HTML &nbsp;•&nbsp; 🗄️ SQLite &nbsp;•&nbsp; 📊 SQL
+
+**AI Focus** &nbsp; ⚡ n8n &nbsp;•&nbsp; 🧠 Machine Learning &nbsp;•&nbsp; 🔬 Deep Learning &nbsp;•&nbsp; 💬 NLP &nbsp;•&nbsp; 👁️ Computer Vision
+
 </div>
-<br/>
-🚀 LaunchedZB_ROBO🛠️ StatusBuilding AI-powered automation tools🤝 Open To Collaborations in AI & Python projects
-
-<br/>
 
 <br/>
 
 ## 🚀 Featured Projects
 
-<table>
+<table align="center">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### rent_calculator
+### 🧮 rent_calculator
 
-[![rent_calculator](https://github-readme-stats.vercel.app/api/pin/?username=zarnishabachy-source&repo=rent_calculator&theme=tokyonight&border_color=c792ea&title_color=c792ea&icon_color=c792ea)](https://github.com/zarnishabachy-source/rent_calculator)
+[![rent_calculator](https://github-readme-stats.vercel.app/api/pin/?username=zarnishabachy-source&repo=rent_calculator&theme=radical&border_color=FF6B9D&title_color=FF6B9D&icon_color=C44BFF&bg_color=1a1a2e)](https://github.com/zarnishabachy-source/rent_calculator)
 
 | Layer | Technology |
 |-------|-----------|
@@ -51,11 +57,11 @@
 🔗 [Code](https://github.com/zarnishabachy-source/rent_calculator)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🤖 ZB_ROBO
 
-> AI automation project powered by n8n, ML, DL, NLP, and CV — turning workflows into intelligent, self-driving pipelines.
+> AI automation project powered by **n8n**, **ML**, **DL**, **NLP** & **CV** — turning workflows into intelligent, self-driving pipelines.
 
 | Layer | Technology |
 |-------|-----------|
@@ -74,12 +80,8 @@
 
 <div align="center">
 
-**Languages**
-
 <img src="https://skillicons.dev/icons?i=py,html&theme=dark" />
-
-**Databases**
-
+&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" />
 
 </div>
@@ -90,26 +92,30 @@
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=zarnishabachy-source&show_icons=true&theme=radical&border_color=FF6B9D&title_color=FF6B9D&icon_color=C44BFF&text_color=ffffff&bg_color=1a1a2e" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarnishabachy-source&layout=compact&theme=radical&border_color=FF6B9D&title_color=FF6B9D&text_color=ffffff&bg_color=1a1a2e" height="165"/>
 
-<img src="https://streak-stats.demolab.com?user=zarnishabachy-source&theme=tokyonight&border=c792ea&ring=c792ea&fire=c792ea&background=0d1117" />
+<img src="https://streak-stats.demolab.com?user=zarnishabachy-source&theme=radical&border=FF6B9D&ring=FF6B9D&fire=C44BFF&background=1a1a2e" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=zarnishabachy-source&no-frame=true&no-bg=true&theme=radical&row=1&margin-w=15" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zarnishabachy-source&theme=redical&hide_border=true&color=FF6B9D&line=C44BFF&point=ffffff&bg_color=1a1a2e" />
 
 </div>
 
 <br/>
 
-## 📫 Connect With Me
+## 📫 Let's Connect
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-c792ea?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-phi-inky-66kn2egznh.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-c792ea?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zainabgulzar90@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B9D?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-phi-inky-66kn2egznh.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-C44BFF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zainabgulzar90@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=zarnishabachy-source&color=c792ea&style=for-the-badge&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/zarnishabachy-source?color=c792ea&style=for-the-badge&label=FOLLOWERS&logo=github" />
 </div>
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=150&section=footer&animation=twinkling)
+![Footer](https://capsule-render.vercel.app/api?type=soft&color=0:6C63FF,50:C44BFF,100:FF6B9D&height=150&section=footer&animation=fadeIn)
 
 </div>
