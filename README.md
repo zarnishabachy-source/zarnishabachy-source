@@ -146,11 +146,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B9D?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-phi-inky-66kn2egznh.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-C44BFF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zainabgulzar90@gmail.com)
 
-</div>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6C63FF,100:FF6B9D&height=150&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
 <div align="center">
