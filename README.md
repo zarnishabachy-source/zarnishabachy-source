@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/badge/👁️_Computer_Vision-764ba2?style=flat-square&labelColor=0d1117" />
 </div>
 <br/>
-🚀 LaunchedZB_ROBO🛠️ StatusBuilding AI-powered automation tools🤝 Open ToCollaborations in AI & Python projects
+🚀 LaunchedZB_ROBO🛠️ StatusBuilding AI-powered automation tools🤝 Open To Collaborations in AI & Python projects
 
 <br/>
 
@@ -42,7 +42,7 @@
 <tr>
 <td width="50%">
 
-### 🧮 rent_calculator
+###  rent_calculator
 
 [![rent_calculator](https://github-readme-stats.vercel.app/api/pin/?username=zarnishabachy-source&repo=rent_calculator&theme=tokyonight&border_color=c792ea&title_color=c792ea&icon_color=c792ea)](https://github.com/zarnishabachy-source/rent_calculator)
 
@@ -92,8 +92,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zarnishabachy-source&show_icons=true&theme=tokyonight&border_color=c792ea&title_color=c792ea&icon_color=c792ea&text_color=ffffff&bg_color=0d1117" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarnishabachy-source&layout=compact&theme=tokyonight&border_color=c792ea&title_color=c792ea&text_color=ffffff&bg_color=0d1117" height="165"/>
 
 <img src="https://streak-stats.demolab.com?user=zarnishabachy-source&theme=tokyonight&border=c792ea&ring=c792ea&fire=c792ea&background=0d1117" />
 
