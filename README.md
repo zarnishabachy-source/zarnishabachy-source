@@ -132,6 +132,8 @@
 <div align="center">
 
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zarnishabachy-source&theme=redical&hide_border=true&color=FF6B9D&line=C44BFF&point=ffffff&bg_color=1a1a2e" />
+
 
 </div>
 
