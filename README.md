@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/github/followers/zarnishabachy-source?color=C44BFF&style=for-the-badge&label=FOLLOWERS&logo=github&logoColor=white" />
 </div>
 <br/>
-### ✨ Who I Am
+<b>✨ Who I Am </b>
 
 <div align="center">
 
@@ -101,7 +101,7 @@
 </tr>
 </table>
 <br/>
-### ⚡ n8n Integrations I've worked with:
+<b>⚡ n8n Integrations I've worked with: </b>
  
 <div align="center">
 <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white" />
