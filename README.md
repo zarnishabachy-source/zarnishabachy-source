@@ -36,7 +36,7 @@
 
 ### 🧮 rent_calculator
 
-[![rent_calculator](https://github-readme-stats.vercel.app/api/pin/?username=zarnishabachy-source&repo=rent_calculator&theme=radical&border_color=FF6B9D&title_color=FF6B9D&icon_color=C44BFF&bg_color=1a1a2e)](https://github.com/zarnishabachy-source/rent_calculator)
+[[rent_calculator]](https://github.com/zarnishabachy-source/rent_calculator)
 
 | Layer | Technology |
 |-------|-----------|
@@ -49,7 +49,7 @@
 
 ### ⏰ digital_clock
 
-[![digital_clock](https://github-readme-stats.vercel.app/api/pin/?username=zarnishabachy-source&repo=digital_clock&theme=radical&border_color=FF6B9D&title_color=FF6B9D&icon_color=C44BFF&bg_color=1a1a2e)](https://github.com/zarnishabachy-source/digital_clock)
+[[digital_clock]](https://github.com/zarnishabachy-source/digital_clock)
 
 | Layer | Technology |
 |-------|-----------|
@@ -64,7 +64,7 @@
 
 ### 📝 text_editor
 
-[![text_editor]](https://github.com/zarnishabachy-source/text_editor)
+[[text_editor]](https://github.com/zarnishabachy-source/text_editor)
 
 | Layer | Technology |
 |-------|-----------|
