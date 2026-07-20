@@ -101,7 +101,7 @@
 </tr>
 </table>
 <br/>
-**⚡ n8n Integrations I've worked with:**
+##⚡ n8n Integrations I've worked with:##
  
 <div align="center">
 <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white" />
