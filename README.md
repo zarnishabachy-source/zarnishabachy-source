@@ -36,7 +36,6 @@
 
 ### 🧮 rent_calculator
 
-[[rent_calculator]](https://github.com/zarnishabachy-source/rent_calculator)
 
 | Layer | Technology |
 |-------|-----------|
@@ -49,7 +48,6 @@
 
 ### ⏰ digital_clock
 
-[[digital_clock]](https://github.com/zarnishabachy-source/digital_clock)
 
 | Layer | Technology |
 |-------|-----------|
@@ -64,7 +62,6 @@
 
 ### 📝 text_editor
 
-[[text_editor]](https://github.com/zarnishabachy-source/text_editor)
 
 | Layer | Technology |
 |-------|-----------|
