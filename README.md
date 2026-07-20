@@ -64,7 +64,7 @@
 
 ### 📝 text_editor
 
-[![text_editor](https://github-readme-stats.vercel.app/api/pin/?username=zarnishabachy-source&repo=text_editor&theme=radical&border_color=FF6B9D&title_color=FF6B9D&icon_color=C44BFF&bg_color=1a1a2e)](https://github.com/zarnishabachy-source/text_editor)
+[![text_editor]](https://github.com/zarnishabachy-source/text_editor)
 
 | Layer | Technology |
 |-------|-----------|
@@ -133,7 +133,6 @@
 
 <img src="https://streak-stats.demolab.com?user=zarnishabachy-source&theme=radical&border=FF6B9D&ring=FF6B9D&fire=C44BFF&background=1a1a2e" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=zarnishabachy-source&no-frame=true&no-bg=true&theme=radical&row=1&margin-w=15" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=zarnishabachy-source&theme=redical&hide_border=true&color=FF6B9D&line=C44BFF&point=ffffff&bg_color=1a1a2e" />
 
 
